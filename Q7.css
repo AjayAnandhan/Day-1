@@ -1,0 +1,25 @@
+#mag{
+    display: block;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+#margin{
+    border: 2px solid black;
+    padding: 5px 20px 20px 20px;
+    margin: 300px;
+}
+#size1{
+    font-size: 24px;
+}
+#size2{
+    font-size: 32px;
+    font-style: italic;
+}
+span.box{
+    display: inline-block;
+}
+#box2{
+    position: absolute;
+    right: 0px;
+}
